@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I am ASHRAFUL a passionate Web developer from Bangladesh</h3>
+<h3 align="center"> I am ASHRAFUL a passionate Web developer from Bangladesh</h3>
 
 ![Logo](https://i.ibb.co/d071JtC/1697869605396.jpg)
 
