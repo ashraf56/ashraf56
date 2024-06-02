@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ashrafs-portfolio.netlify.app/](https://ashrafs-portfolio.netlify.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React** **NextJS** **Express** 
 
 - 📫 How to reach me **ashrafulfahim07@gmail.com**
 
